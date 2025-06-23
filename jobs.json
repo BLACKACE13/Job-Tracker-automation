@@ -1,9 +1,436 @@
 [
     {
-        "title": "Python Developer",
-        "company": "Acenet",
-        "location": "Mumbai, Pune, Gurugram, Bengaluru",
+        "title": "Web Developer",
+        "company": "Rigelix",
+        "location": "Pune",
+        "posted": "Just now",
+        "link": "https://www.naukri.com/job-listings-web-developer-rigelix-technologies-pune-0-to-2-years-230625922892"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Ideamagix",
+        "location": "Thane",
+        "posted": "Just now",
+        "link": "https://www.naukri.com/job-listings-web-developer-ideamagix-thane-1-to-4-years-230625922798"
+    },
+    {
+        "title": "WEB DEVELOPER",
+        "company": "Codez Cook",
+        "location": "Thoothukudi",
+        "posted": "1 week ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-codez-cook-thoothukudi-0-to-3-years-120625504581"
+    },
+    {
+        "title": "Back End Developer",
+        "company": "N/A",
+        "location": "N/A",
+        "posted": "N/A",
+        "link": null
+    },
+    {
+        "title": "Web Developer",
+        "company": "Legalion Consulting Services",
+        "location": "Bhubaneswar(Rasulgarh)",
+        "posted": "Today",
+        "link": "https://www.naukri.com/job-listings-web-developer-legalion-consulting-services-bhubaneswar-0-to-3-years-230625001009"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Blueline Computers",
+        "location": "Mangaluru",
+        "posted": "2 weeks ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-blueline-computers-mangaluru-0-to-1-years-090625501120"
+    },
+    {
+        "title": "Web Developer",
+        "company": "BNP Paribas",
+        "location": "Chennai",
         "posted": "3 days ago",
-        "link": "https://www.naukri.com/job-listings-python-developer-acenet-mumbai-pune-gurugram-bengaluru-5-to-8-years-200625502841"
+        "link": "https://www.naukri.com/job-listings-web-developer-bnp-paribas-india-solutions-pvt-ltd-chennai-8-to-13-years-200625926204"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Accenture",
+        "location": "Pune",
+        "posted": "Few hours ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-accenture-solutions-pvt-ltd-pune-2-to-7-years-230625917520"
+    },
+    {
+        "title": "Back End Developer",
+        "company": "N/A",
+        "location": "N/A",
+        "posted": "N/A",
+        "link": null
+    },
+    {
+        "title": "Web Developer",
+        "company": "Digital Vision Solitario",
+        "location": "Ahmedabad",
+        "posted": "2 weeks ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-digital-vision-solitario-ahmedabad-0-to-4-years-090625505183"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Ragi Media",
+        "location": "Bengaluru",
+        "posted": "1 week ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-ragi-media-bengaluru-0-to-3-years-110625500184"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Iclient Technologies",
+        "location": "Kolkata",
+        "posted": "Few hours ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-iclient-technologies-kolkata-0-to-5-years-230625501279"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Everydayloanindia",
+        "location": "New Delhi",
+        "posted": "Few hours ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-everydayloanindia-new-delhi-1-to-4-years-230625502402"
+    },
+    {
+        "title": "Web Developer",
+        "company": "QTC Infotech",
+        "location": "Jind",
+        "posted": "3 days ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-qtc-infotech-jind-2-to-4-years-200625500602"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Zeemo",
+        "location": "Gurugram",
+        "posted": "Today",
+        "link": "https://www.naukri.com/job-listings-web-developer-zeemo-gurugram-2-to-3-years-230625500498"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Wildtrails",
+        "location": "Bengaluru",
+        "posted": "Today",
+        "link": "https://www.naukri.com/job-listings-web-developer-wildtrails-of-india-bengaluru-2-to-4-years-230625500541"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Rongo 360",
+        "location": "Bengaluru",
+        "posted": "6 days ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-rongo-360-pvt-ltd-bengaluru-4-to-7-years-170625502951"
+    },
+    {
+        "title": "Web Developer (Angular+React.js)",
+        "company": "Uplers",
+        "location": "Bengaluru",
+        "posted": "Few hours ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-angular-react-js-uplers-solutions-private-limited-bengaluru-5-to-7-years-230625913149"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Odigma",
+        "location": "Bengaluru",
+        "posted": "Today",
+        "link": "https://www.naukri.com/job-listings-web-developer-odigma-consultancy-solutions-pvt-ltd-bengaluru-3-to-8-years-230625500494"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Accenture",
+        "location": "Noida",
+        "posted": "1 week ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-accenture-solutions-pvt-ltd-noida-5-to-10-years-120625932214"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Accenture",
+        "location": "Gurugram",
+        "posted": "1 week ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-accenture-solutions-pvt-ltd-gurugram-15-to-20-years-120625932089"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Accenture",
+        "location": "Pune",
+        "posted": "Few hours ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-accenture-solutions-pvt-ltd-pune-5-to-10-years-230625917871"
+    },
+    {
+        "title": "Web Developer ( AI-Assisted )",
+        "company": "Rdmi Tech Ventures",
+        "location": "Remote",
+        "posted": "3+ weeks ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-ai-assisted-rdmi-tech-ventures-pvt-ltd-noida-0-to-2-years-220525923281"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Technoplanet Labs",
+        "location": "Faridabad",
+        "posted": "3+ weeks ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-technoplanet-faridabad-0-to-2-years-310518500715"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Brucode Technologies",
+        "location": "Kolkata, Mohali, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
+        "posted": "3+ weeks ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-brucode-technologies-pvt-ltd-kolkata-mohali-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-0-to-1-years-190820500306"
+    },
+    {
+        "title": "Web Developers",
+        "company": "Oxyzen Homes",
+        "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
+        "posted": "3+ weeks ago",
+        "link": "https://www.naukri.com/job-listings-web-developers-oxygen-homes-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-0-to-1-years-130519500008"
+    },
+    {
+        "title": "Web Developer",
+        "company": "All India Council for Robotics & Automation (AICRA)",
+        "location": "New Delhi",
+        "posted": "3+ weeks ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-aicra-new-delhi-0-to-5-years-110225501726"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Technoplanet Labs",
+        "location": "Faridabad",
+        "posted": "3+ weeks ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-technoplanet-faridabad-0-to-2-years-160221500619"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Wizz Technology",
+        "location": "Noida",
+        "posted": "3+ weeks ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-wizz-technology-noida-0-to-2-years-020724502145"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Ananda Vak Solutions",
+        "location": "New Delhi",
+        "posted": "3+ weeks ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-anandavak-solutions-new-delhi-0-to-2-years-270622502296"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Certcube",
+        "location": "New Delhi",
+        "posted": "Today",
+        "link": "https://www.naukri.com/job-listings-web-developer-certcube-new-delhi-3-to-8-years-230625500720"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Technoplanet Labs",
+        "location": "Faridabad",
+        "posted": "3+ weeks ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-technoplanet-lab-private-limited-faridabad-0-to-2-years-300523501861"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Adstuck Consulting",
+        "location": "Gurugram",
+        "posted": "3+ weeks ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-adstuck-consulting-private-limited-gurugram-0-to-2-years-240223500314"
+    },
+    {
+        "title": "Web Developer - NetWorld",
+        "company": "Networld",
+        "location": "Rajkot",
+        "posted": "2 days ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-networld-networld-rajkot-1-to-3-years-210625501333"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Blue Moon Marketing",
+        "location": "New Delhi",
+        "posted": "3+ weeks ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-blue-moon-marketing-new-delhi-0-to-2-years-091024502845"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Precise Virtual Team",
+        "location": "Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",
+        "posted": "3+ weeks ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-precise-virtual-team-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-0-to-3-years-130225506424"
+    },
+    {
+        "title": "Study MCA along with Web Developer role",
+        "company": "Workfreaks",
+        "location": "N/A",
+        "posted": "5 days ago",
+        "link": "https://www.naukri.com/job-listings-study-mca-along-with-web-developer-role-workfreaks-business-services-chennai-0-to-0-years-140225012525"
+    },
+    {
+        "title": "WEB DEVELOPER",
+        "company": "Technaq Systems",
+        "location": "Mumbai, New Delhi",
+        "posted": "3+ weeks ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-technaq-systems-mumbai-new-delhi-0-to-4-years-031224507248"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Consultit",
+        "location": "Noida",
+        "posted": "3+ weeks ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-consultit-noida-0-to-4-years-020724502155"
+    },
+    {
+        "title": "Web developer",
+        "company": "Code Calibre",
+        "location": "Noida",
+        "posted": "3+ weeks ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-code-calibre-noida-0-to-2-years-210524500575"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Arpanet Software",
+        "location": "Noida",
+        "posted": "3+ weeks ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-arpanet-software-noida-0-to-2-years-200624501757"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Happy Homez",
+        "location": "Mohali",
+        "posted": "Few hours ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-happy-homez-mohali-4-to-6-years-230625013199"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Coding Spider Info Tech",
+        "location": "Hubli",
+        "posted": "3+ weeks ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-coding-spider-info-tech-private-limited-hubli-0-to-1-years-290722502145"
+    },
+    {
+        "title": "Web Developer",
+        "company": "APS Infotech",
+        "location": "Nashik",
+        "posted": "3+ weeks ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-apsc-infotech-nashik-0-to-3-years-100123500838"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Asquare Infotech",
+        "location": "Pune",
+        "posted": "3+ weeks ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-asquare-infotech-pune-0-to-2-years-080523500535"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Asquare Infotech",
+        "location": "Pune",
+        "posted": "3+ weeks ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-asquare-infotech-pune-0-to-2-years-290424500447"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Resolute Solutions",
+        "location": "Surat",
+        "posted": "3 days ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-resolute-solutions-surat-1-to-2-years-200625500516"
+    },
+    {
+        "title": "Web Developer",
+        "company": "N D Savla & Associates",
+        "location": "Mumbai Suburban, Mumbai (All Areas)",
+        "posted": "1 week ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-n-d-savla-associates-mumbai-suburban-mumbai-all-areas-1-to-3-years-130625022957"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Wizz Technology",
+        "location": "Noida",
+        "posted": "3+ weeks ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-wizz-technology-noida-0-to-2-years-020724502145"
+    },
+    {
+        "title": "Web Developer",
+        "company": "SK Software Developers",
+        "location": "Pune",
+        "posted": "5 days ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-sk-software-developers-pune-1-to-5-years-180625500790"
+    },
+    {
+        "title": "Web Developer",
+        "company": "HCLTech",
+        "location": "Hybrid - Bengaluru",
+        "posted": "1 week ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-hcl-software-bengaluru-5-to-10-years-120625022068"
+    },
+    {
+        "title": "Web Developer",
+        "company": "CBTS India LLP",
+        "location": "Remote",
+        "posted": "4 days ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-cbts-india-llp-chennai-7-to-12-years-190625014951"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Accenture",
+        "location": "Hyderabad",
+        "posted": "1 week ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-accenture-solutions-pvt-ltd-hyderabad-3-to-8-years-120625932108"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Growyder Plus Communication",
+        "location": "Varanasi, Bengaluru",
+        "posted": "3+ weeks ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-growyder-plus-communication-varanasi-bengaluru-0-to-1-years-070420500368"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Swipfe Infotech",
+        "location": "Pune",
+        "posted": "3+ weeks ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-swipfe-infotech-pvt-ltd-pune-0-to-2-years-270320501495"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Accenture",
+        "location": "Chennai",
+        "posted": "1 week ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-accenture-solutions-pvt-ltd-chennai-3-to-8-years-120625932282"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Trovasemi",
+        "location": "Bengaluru",
+        "posted": "5 days ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-trovasemi-bengaluru-3-to-8-years-180625500297"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Perspectiwitty",
+        "location": "Mumbai",
+        "posted": "3 days ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-perspectiwitty-mumbai-1-to-3-years-200625500596"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Accenture",
+        "location": "Hyderabad",
+        "posted": "1 week ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-accenture-solutions-pvt-ltd-hyderabad-3-to-8-years-120625932017"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Adreno Technologies",
+        "location": "Gurugram",
+        "posted": "1 week ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-adreno-technologies-india-private-limited-gurugram-3-to-4-years-140625500618"
+    },
+    {
+        "title": "Dedicated Web Developers",
+        "company": "Solidale Infotech Pvt. Ltd",
+        "location": "Moradabad",
+        "posted": "3+ weeks ago",
+        "link": "https://www.naukri.com/job-listings-dedicated-web-developers-solidale-infotech-pvt-ltd-moradabad-0-to-2-years-280923500116"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Dynoconv Engineering",
+        "location": "Chennai",
+        "posted": "5 days ago",
+        "link": "https://www.naukri.com/job-listings-web-developer-dynoconv-engineering-chennai-5-to-10-years-180625030518"
     }
 ]
