@@ -6,11 +6,12 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver import ActionChains
 import time
 import json
 
 
-def scrape_jobs(role="python developer", max_pages=5):
+def scrape_jobs(role="python developer", location="remote", experience="0", max_pages=5):
     options = Options()
     #options.add_argument("--headless=new")  # New headless mode (quieter)
     options.add_argument("--disable-logging")
@@ -18,11 +19,12 @@ def scrape_jobs(role="python developer", max_pages=5):
 
     driver = webdriver.Chrome(service=Service(), options=options)
     driver.get("https://www.naukri.com/")
-
+    
+    
     search = driver.find_element(By.CLASS_NAME, "suggestor-input")
     search.send_keys(role)
     search.send_keys(Keys.RETURN)
-
+    
     try:
         wait = WebDriverWait(driver, 10)
         wait.until(EC.presence_of_element_located((By.CLASS_NAME, "srp-jobtuple-wrapper")))
@@ -31,7 +33,16 @@ def scrape_jobs(role="python developer", max_pages=5):
         print("No job listings found.")
         driver.quit()
         return []
-
+    
+    try:
+        slider = wait.until(EC.presence_of_element_located((By.CLASS_NAME, "handle")))
+        actions = ActionChains(driver)
+        offset = 225 - (int(experience) * 10)
+        actions.click_and_hold(slider).move_by_offset(-offset, 0).release().perform()
+        time.sleep(2)
+    except Exception as e:
+        print("Could not set experience slider:", e)
+    
     jobs = []
     page = 1
 
