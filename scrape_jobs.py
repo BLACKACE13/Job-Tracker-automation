@@ -19,7 +19,7 @@ def scrape_jobs(role="python developer", location="remote", experience="0", max_
 
     driver = webdriver.Chrome(service=Service(), options=options)
     driver.get("https://www.naukri.com/")
-    
+
     wait = WebDriverWait(driver, 10)
     role_input = wait.until(EC.presence_of_element_located((By.CLASS_NAME, "suggestor-input")))
     role_input.send_keys(role)
@@ -36,12 +36,7 @@ def scrape_jobs(role="python developer", location="remote", experience="0", max_
 
     # Start search
     role_input.send_keys(Keys.RETURN)
-    '''search_role = driver.find_element(By.CLASS_NAME, "suggestor-input")
-    search_location = driver.find_element(By.LINK_TEXT,"Enter location")
-    search_role.send_keys(role)
-    search_location.send_keys(location)
-    search_location.send_keys(Keys.RETURN)
-    '''
+
     try:
         wait = WebDriverWait(driver, 10)
         wait.until(EC.presence_of_element_located((By.CLASS_NAME, "srp-jobtuple-wrapper")))
