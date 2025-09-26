@@ -13,7 +13,7 @@ import json
 
 def scrape_jobs(role="python developer", location="remote", experience="0", max_pages=5):
     options = Options()
-    #options.add_argument("--headless=new")  # New headless mode (quieter)
+    #options.add_argument("--headless=new")  # headless mode (quieter)
     options.add_argument("--disable-logging")
     options.add_argument("--log-level=3")  # Suppress most logs
 
